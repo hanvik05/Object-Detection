@@ -13,6 +13,10 @@ _reader = imageio.get_reader('epic_horses.mp4')_
 Then you will get the output video as **output.mp4**
 <br />
 <br />
-One of the frame is as shown
+Frames are as shown:
 <br />
 <img width="960" alt="image" src="https://github.com/hanvik05/Object-Detection/assets/16571807/ad734994-8cc3-4dbd-8392-2065ccd9521b">
+<br />
+<br />
+<br />
+Before using the code, unzip *ssd300_mAP_77.43_v2.zip*
